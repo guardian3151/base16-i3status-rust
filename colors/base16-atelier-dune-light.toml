@@ -4,7 +4,7 @@
 # Atelier Dune Light by Bram de Haan (http://atelierbramdehaan.nl)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#fefbec"
 idle_fg = "#6e6b5e"

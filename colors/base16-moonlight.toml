@@ -4,7 +4,7 @@
 # Moonlight by Jeremy Swinarton (https://github.com/jswinarton)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#212337"
 idle_fg = "#a3ace1"

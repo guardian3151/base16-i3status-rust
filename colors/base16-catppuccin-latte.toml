@@ -4,7 +4,7 @@
 # Catppuccin Latte by https://github.com/catppuccin/catppuccin
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#eff1f5"
 idle_fg = "#4c4f69"

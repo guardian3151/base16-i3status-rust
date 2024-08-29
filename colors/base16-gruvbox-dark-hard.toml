@@ -4,7 +4,7 @@
 # Gruvbox dark, hard by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1d2021"
 idle_fg = "#d5c4a1"

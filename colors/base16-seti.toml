@@ -4,7 +4,7 @@
 # Seti UI by 
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#151718"
 idle_fg = "#d6d6d6"

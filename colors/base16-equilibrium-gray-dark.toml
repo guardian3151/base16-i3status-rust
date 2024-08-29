@@ -4,7 +4,7 @@
 # Equilibrium Gray Dark by Carlo Abelli
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#111111"
 idle_fg = "#ababab"

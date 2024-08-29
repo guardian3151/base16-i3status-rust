@@ -4,7 +4,7 @@
 # Atelier Seaside by Bram de Haan (http://atelierbramdehaan.nl)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#131513"
 idle_fg = "#8ca68c"

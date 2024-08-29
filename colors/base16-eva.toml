@@ -4,7 +4,7 @@
 # Eva by kjakapat (https://github.com/kjakapat)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#2a3b4d"
 idle_fg = "#9fa2a6"

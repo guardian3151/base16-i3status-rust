@@ -4,7 +4,7 @@
 # Pop by Chris Kempson (http://chriskempson.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#d0d0d0"

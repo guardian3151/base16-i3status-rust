@@ -4,7 +4,7 @@
 # Macintosh by Rebecca Bettencourt (http://www.kreativekorp.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#c0c0c0"

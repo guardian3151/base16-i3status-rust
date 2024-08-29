@@ -4,7 +4,7 @@
 # Atelier Lakeside by Bram de Haan (http://atelierbramdehaan.nl)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#161b1d"
 idle_fg = "#7ea2b4"

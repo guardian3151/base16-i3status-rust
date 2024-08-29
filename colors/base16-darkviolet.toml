@@ -4,7 +4,7 @@
 # Dark Violet by ruler501 (https://github.com/ruler501/base16-darkviolet)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#b08ae6"

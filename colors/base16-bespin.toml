@@ -4,7 +4,7 @@
 # Bespin by Jan T. Sott
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#28211c"
 idle_fg = "#8a8986"

@@ -4,7 +4,7 @@
 # vulcan by Andrey Varfolomeev
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#041523"
 idle_fg = "#5b778c"

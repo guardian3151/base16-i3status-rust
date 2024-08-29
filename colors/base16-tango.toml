@@ -4,7 +4,7 @@
 # Tango by @Schnouki, based on the Tango Desktop Project
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#2e3436"
 idle_fg = "#d3d7cf"

@@ -4,7 +4,7 @@
 # Atelier Plateau by Bram de Haan (http://atelierbramdehaan.nl)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1b1818"
 idle_fg = "#8a8585"

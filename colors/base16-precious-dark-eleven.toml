@@ -4,7 +4,7 @@
 # Precious Dark Eleven by 4lex4 &lt;4lex49@zoho.com&gt;
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1c1e20"
 idle_fg = "#b8b7b6"

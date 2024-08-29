@@ -4,7 +4,7 @@
 # Google Light by Seth Wright (http://sethawright.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#ffffff"
 idle_fg = "#373b41"

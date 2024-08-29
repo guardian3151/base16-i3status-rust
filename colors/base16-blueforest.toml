@@ -4,7 +4,7 @@
 # Blue Forest by alonsodomin (https://github.com/alonsodomin)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#141f2e"
 idle_fg = "#ffcc33"

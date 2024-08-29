@@ -4,7 +4,7 @@
 # Humanoid dark by Thomas (tasmo) Friese
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#232629"
 idle_fg = "#f8f8f2"

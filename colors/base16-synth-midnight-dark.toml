@@ -4,7 +4,7 @@
 # Synth Midnight Terminal Dark by Michaël Ball (http://github.com/michael-ball/)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#050608"
 idle_fg = "#c1c3c4"

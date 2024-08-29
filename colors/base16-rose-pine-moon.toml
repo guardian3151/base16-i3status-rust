@@ -4,7 +4,7 @@
 # Rosé Pine Moon by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#232136"
 idle_fg = "#e0def4"

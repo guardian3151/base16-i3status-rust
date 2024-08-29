@@ -4,7 +4,7 @@
 # Zenburn by elnawe
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#383838"
 idle_fg = "#dcdccc"

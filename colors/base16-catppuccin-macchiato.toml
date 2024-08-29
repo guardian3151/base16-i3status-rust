@@ -4,7 +4,7 @@
 # Catppuccin Macchiato by https://github.com/catppuccin/catppuccin
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#24273a"
 idle_fg = "#cad3f5"

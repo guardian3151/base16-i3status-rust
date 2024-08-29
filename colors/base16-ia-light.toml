@@ -4,7 +4,7 @@
 # iA Light by iA Inc. (modified by aramisgithub)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#f6f6f6"
 idle_fg = "#181818"

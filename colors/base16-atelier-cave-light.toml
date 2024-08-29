@@ -4,7 +4,7 @@
 # Atelier Cave Light by Bram de Haan (http://atelierbramdehaan.nl)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#efecf4"
 idle_fg = "#585260"

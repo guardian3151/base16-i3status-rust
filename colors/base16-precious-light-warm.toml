@@ -4,7 +4,7 @@
 # Precious Light Warm by 4lex4 &lt;4lex49@zoho.com&gt;
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#fff5e5"
 idle_fg = "#4e5359"

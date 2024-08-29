@@ -4,7 +4,7 @@
 # Da One Black by NNB (https://github.com/NNBnh)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#ffffff"

@@ -4,7 +4,7 @@
 # Helios by Alex Meyer (https://github.com/reyemxela)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1d2021"
 idle_fg = "#d5d5d5"

@@ -4,7 +4,7 @@
 # Tokyo Night Terminal Storm by Michaël Ball
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#24283b"
 idle_fg = "#787c99"

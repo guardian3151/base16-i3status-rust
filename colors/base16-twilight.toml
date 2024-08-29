@@ -4,7 +4,7 @@
 # Twilight by David Hart (https://github.com/hartbit)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1e1e1e"
 idle_fg = "#a7a7a7"

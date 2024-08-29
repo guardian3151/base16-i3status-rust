@@ -4,7 +4,7 @@
 # tarot by ed (https://codeberg.org/ed)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#0e091d"
 idle_fg = "#aa556f"

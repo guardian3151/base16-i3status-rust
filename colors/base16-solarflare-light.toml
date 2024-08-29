@@ -4,7 +4,7 @@
 # Solar Flare Light by Chuck Harmston (https://chuck.harmston.ch)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#f5f7fa"
 idle_fg = "#586875"

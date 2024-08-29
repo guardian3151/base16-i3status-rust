@@ -4,7 +4,7 @@
 # Da One Paper by NNB (https://github.com/NNBnh)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#faf0dc"
 idle_fg = "#181818"

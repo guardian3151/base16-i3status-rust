@@ -4,7 +4,7 @@
 # Marrakesh by Alexandre Gavioli (http://github.com/Alexx2/)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#201602"
 idle_fg = "#948e48"

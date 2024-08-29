@@ -4,7 +4,7 @@
 # Nova by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#3c4c55"
 idle_fg = "#c5d4dd"

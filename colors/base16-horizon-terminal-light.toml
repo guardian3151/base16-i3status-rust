@@ -4,7 +4,7 @@
 # Horizon Terminal Light by Michaël Ball (http://github.com/michael-ball/)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#fdf0ed"
 idle_fg = "#403c3d"

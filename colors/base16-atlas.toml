@@ -4,7 +4,7 @@
 # Atlas by Alex Lende (https://ajlende.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#002635"
 idle_fg = "#a1a19a"

@@ -4,7 +4,7 @@
 # Edge Light by cjayross (https://github.com/cjayross)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#fafafa"
 idle_fg = "#5e646f"

@@ -4,7 +4,7 @@
 # Oxocarbon Dark by shaunsingh/IBM
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#161616"
 idle_fg = "#f2f4f8"

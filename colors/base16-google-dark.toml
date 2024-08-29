@@ -4,7 +4,7 @@
 # Google Dark by Seth Wright (http://sethawright.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1d1f21"
 idle_fg = "#c5c8c6"

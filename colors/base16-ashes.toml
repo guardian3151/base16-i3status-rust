@@ -4,7 +4,7 @@
 # Ashes by Jannik Siebert (https://github.com/janniks)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1c2023"
 idle_fg = "#c7ccd1"

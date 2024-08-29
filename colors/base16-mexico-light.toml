@@ -4,7 +4,7 @@
 # Mexico Light by Sheldon Johnson
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#f8f8f8"
 idle_fg = "#383838"

@@ -4,7 +4,7 @@
 # Da One Gray by NNB (https://github.com/NNBnh)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#181818"
 idle_fg = "#ffffff"

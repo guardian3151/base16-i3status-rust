@@ -4,7 +4,7 @@
 # Material Palenight by Nate Peterson
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#292d3e"
 idle_fg = "#959dcb"

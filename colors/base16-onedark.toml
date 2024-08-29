@@ -4,7 +4,7 @@
 # OneDark by Lalit Magant (http://github.com/tilal6991)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#282c34"
 idle_fg = "#abb2bf"

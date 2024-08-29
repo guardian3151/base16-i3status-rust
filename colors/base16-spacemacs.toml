@@ -4,7 +4,7 @@
 # Spacemacs by Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1f2022"
 idle_fg = "#a3a3a3"

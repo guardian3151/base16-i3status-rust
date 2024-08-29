@@ -4,7 +4,7 @@
 # Atelier Forest Light by Bram de Haan (http://atelierbramdehaan.nl)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#f1efee"
 idle_fg = "#68615e"

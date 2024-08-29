@@ -4,7 +4,7 @@
 # Mellow Purple by gidsi
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1e0528"
 idle_fg = "#ffeeff"

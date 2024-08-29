@@ -4,7 +4,7 @@
 # Equilibrium Light by Carlo Abelli
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#f5f0e7"
 idle_fg = "#43474e"

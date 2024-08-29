@@ -4,7 +4,7 @@
 # summercamp by zoe firi (zoefiri.github.io)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1c1810"
 idle_fg = "#736e55"

@@ -4,7 +4,7 @@
 # Atelier Savanna Light by Bram de Haan (http://atelierbramdehaan.nl)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#ecf4ee"
 idle_fg = "#526057"

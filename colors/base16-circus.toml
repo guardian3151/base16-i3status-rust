@@ -4,7 +4,7 @@
 # Circus by Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#191919"
 idle_fg = "#a7a7a7"

@@ -4,7 +4,7 @@
 # London Tube by Jan T. Sott
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#231f20"
 idle_fg = "#d9d8d8"

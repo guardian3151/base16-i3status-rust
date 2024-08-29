@@ -4,7 +4,7 @@
 # Cupcake by Chris Kempson (http://chriskempson.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#fbf1f2"
 idle_fg = "#8b8198"

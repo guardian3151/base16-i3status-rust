@@ -4,7 +4,7 @@
 # lime by limelier
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1a1a2f"
 idle_fg = "#818175"

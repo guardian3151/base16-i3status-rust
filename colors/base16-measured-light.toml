@@ -4,7 +4,7 @@
 # Measured Light by Measured (https://measured.co)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#fdf9f5"
 idle_fg = "#292929"

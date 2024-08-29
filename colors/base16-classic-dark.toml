@@ -4,7 +4,7 @@
 # Classic Dark by Jason Heeris (http://heeris.id.au)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#151515"
 idle_fg = "#d0d0d0"

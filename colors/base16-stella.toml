@@ -4,7 +4,7 @@
 # Stella by Shrimpram
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#2b213c"
 idle_fg = "#998bad"

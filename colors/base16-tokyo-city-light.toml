@@ -4,7 +4,7 @@
 # Tokyo City Light by Michaël Ball
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#fbfbfd"
 idle_fg = "#343b59"

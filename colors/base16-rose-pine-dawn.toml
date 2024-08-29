@@ -4,7 +4,7 @@
 # Rosé Pine Dawn by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#faf4ed"
 idle_fg = "#575279"

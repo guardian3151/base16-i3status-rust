@@ -4,7 +4,7 @@
 # darkmoss by Gabriel Avanzi (https://github.com/avanzzzi)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#171e1f"
 idle_fg = "#c7c7a5"

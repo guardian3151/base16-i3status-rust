@@ -4,7 +4,7 @@
 # Material Darker by Nate Peterson
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#212121"
 idle_fg = "#eeffff"

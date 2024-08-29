@@ -4,7 +4,7 @@
 # Brewer by Timothée Poisot (http://github.com/tpoisot)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#0c0d0e"
 idle_fg = "#b7b8b9"

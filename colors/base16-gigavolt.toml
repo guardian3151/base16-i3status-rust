@@ -4,7 +4,7 @@
 # Gigavolt by Aidan Swope (http://github.com/Whillikers)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#202126"
 idle_fg = "#e9e7e1"

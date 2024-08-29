@@ -4,7 +4,7 @@
 # Black Metal (Venom) by metalelf0 (https://github.com/metalelf0)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#c1c1c1"

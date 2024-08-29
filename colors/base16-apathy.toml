@@ -4,7 +4,7 @@
 # Apathy by Jannik Siebert (https://github.com/janniks)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#031a16"
 idle_fg = "#81b5ac"

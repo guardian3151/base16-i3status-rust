@@ -4,7 +4,7 @@
 # Grayscale Light by Alexandre Gavioli (https://github.com/Alexx2/)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#f7f7f7"
 idle_fg = "#464646"

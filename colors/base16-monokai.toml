@@ -4,7 +4,7 @@
 # Monokai by Wimer Hazenberg (http://www.monokai.nl)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#272822"
 idle_fg = "#f8f8f2"

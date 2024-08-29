@@ -4,7 +4,7 @@
 # Zenbones by mcchrish
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#191919"
 idle_fg = "#b279a7"

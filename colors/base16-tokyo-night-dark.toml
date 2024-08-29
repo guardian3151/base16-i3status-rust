@@ -4,7 +4,7 @@
 # Tokyo Night Dark by Michaël Ball
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1a1b26"
 idle_fg = "#a9b1d6"

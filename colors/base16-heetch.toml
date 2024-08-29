@@ -4,7 +4,7 @@
 # Heetch Dark by Geoffrey Teale (tealeg@gmail.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#190134"
 idle_fg = "#bdb6c5"

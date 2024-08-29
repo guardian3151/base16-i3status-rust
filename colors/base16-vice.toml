@@ -4,7 +4,7 @@
 # vice by Thomas Leon Highbaugh thighbaugh@zoho.com
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#17191e"
 idle_fg = "#8b9cbe"

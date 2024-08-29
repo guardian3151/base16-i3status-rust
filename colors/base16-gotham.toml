@@ -4,7 +4,7 @@
 # Gotham by Andrea Leopardi (arranged by Brett Jones)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#0c1014"
 idle_fg = "#599cab"

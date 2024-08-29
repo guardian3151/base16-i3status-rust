@@ -4,7 +4,7 @@
 # PhD by Hennig Hasemann (http://leetless.de/vim.html)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#061229"
 idle_fg = "#b8bbc2"

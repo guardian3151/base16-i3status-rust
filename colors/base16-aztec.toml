@@ -4,7 +4,7 @@
 # Aztec by TheNeverMan (github.com/TheNeverMan)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#101600"
 idle_fg = "#ffda51"

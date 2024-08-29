@@ -4,7 +4,7 @@
 # Summerfruit Light by Christopher Corley (http://christop.club/)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#ffffff"
 idle_fg = "#101010"

@@ -4,7 +4,7 @@
 # standardized-light by ali (https://github.com/ali-githb/base16-standardized-scheme)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#ffffff"
 idle_fg = "#444444"

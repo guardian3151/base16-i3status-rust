@@ -4,7 +4,7 @@
 # Jabuti by https://github.com/notusknot
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#292a37"
 idle_fg = "#c0cbe3"

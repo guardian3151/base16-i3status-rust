@@ -4,7 +4,7 @@
 # Nord Light by threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#e5e9f0"
 idle_fg = "#2e3440"

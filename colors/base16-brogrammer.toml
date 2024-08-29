@@ -4,7 +4,7 @@
 # Brogrammer by Vik Ramanujam (http://github.com/piggyslasher)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1f1f1f"
 idle_fg = "#4e5ab7"

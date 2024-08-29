@@ -4,7 +4,7 @@
 # Primer Dark by Jimmy Lin
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#010409"
 idle_fg = "#b1bac4"

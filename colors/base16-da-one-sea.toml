@@ -4,7 +4,7 @@
 # Da One Sea by NNB (https://github.com/NNBnh)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#22273d"
 idle_fg = "#ffffff"

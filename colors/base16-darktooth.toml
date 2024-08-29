@@ -4,7 +4,7 @@
 # Darktooth by Jason Milkins (https://github.com/jasonm23)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1d2021"
 idle_fg = "#a89984"

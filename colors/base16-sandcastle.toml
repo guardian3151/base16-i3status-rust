@@ -4,7 +4,7 @@
 # Sandcastle by George Essig (https://github.com/gessig)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#282c34"
 idle_fg = "#a89984"

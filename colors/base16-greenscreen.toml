@@ -4,7 +4,7 @@
 # Green Screen by Chris Kempson (http://chriskempson.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#001100"
 idle_fg = "#00bb00"

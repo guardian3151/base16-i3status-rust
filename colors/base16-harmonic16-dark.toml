@@ -4,7 +4,7 @@
 # Harmonic16 Dark by Jannik Siebert (https://github.com/janniks)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#0b1c2c"
 idle_fg = "#cbd6e2"

@@ -4,7 +4,7 @@
 # Railscasts by Ryan Bates (http://railscasts.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#2b2b2b"
 idle_fg = "#e6e1dc"

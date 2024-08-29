@@ -4,7 +4,7 @@
 # PaperColor Light by Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#eeeeee"
 idle_fg = "#444444"

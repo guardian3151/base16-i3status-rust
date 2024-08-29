@@ -4,7 +4,7 @@
 # caroline by ed (https://codeberg.org/ed)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1c1213"
 idle_fg = "#a87569"

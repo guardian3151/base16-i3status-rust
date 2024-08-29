@@ -4,7 +4,7 @@
 # Terracotta Dark by Alexander Rossell Hayes (https://github.com/rossellhayes)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#241d1a"
 idle_fg = "#b8a59d"

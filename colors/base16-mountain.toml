@@ -4,7 +4,7 @@
 # Mountain by gnsfujiwara (https://github.com/gnsfujiwara)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#0f0f0f"
 idle_fg = "#cacaca"

@@ -4,7 +4,7 @@
 # Windows 10 by Fergus Collins (https://github.com/C-Fergus)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#0c0c0c"
 idle_fg = "#cccccc"

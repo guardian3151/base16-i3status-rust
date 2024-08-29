@@ -4,7 +4,7 @@
 # emil by limelier
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#efefef"
 idle_fg = "#313145"

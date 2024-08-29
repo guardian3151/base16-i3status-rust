@@ -4,7 +4,7 @@
 # Tokyo City Terminal Dark by Michaël Ball
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#171d23"
 idle_fg = "#d8e2ec"

@@ -4,7 +4,7 @@
 # Purpledream by malet
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#100510"
 idle_fg = "#ddd0dd"

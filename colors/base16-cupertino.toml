@@ -4,7 +4,7 @@
 # Cupertino by Defman21
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#ffffff"
 idle_fg = "#404040"

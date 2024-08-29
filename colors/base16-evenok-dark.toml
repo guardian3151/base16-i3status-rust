@@ -4,7 +4,7 @@
 # Evenok Dark by Mekeor Melire
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#d0d0d0"

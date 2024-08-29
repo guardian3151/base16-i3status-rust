@@ -4,7 +4,7 @@
 # DanQing by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#2d302f"
 idle_fg = "#e0f0ef"

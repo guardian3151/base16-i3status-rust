@@ -4,7 +4,7 @@
 # Mocha by Chris Kempson (http://chriskempson.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#3b3228"
 idle_fg = "#d0c8c6"

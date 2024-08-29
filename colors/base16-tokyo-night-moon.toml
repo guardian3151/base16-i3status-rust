@@ -4,7 +4,7 @@
 # Tokyo Night Moon by Ólafur Bjarki Bogason
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#222436"
 idle_fg = "#3b4261"

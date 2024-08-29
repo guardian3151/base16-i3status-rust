@@ -4,7 +4,7 @@
 # tender by Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#282828"
 idle_fg = "#eeeeee"

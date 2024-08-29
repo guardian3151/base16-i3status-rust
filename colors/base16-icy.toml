@@ -4,7 +4,7 @@
 # Icy Dark by icyphox (https://icyphox.ga)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#021012"
 idle_fg = "#095b67"

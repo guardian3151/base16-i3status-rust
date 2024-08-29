@@ -4,7 +4,7 @@
 # Hopscotch by Jan T. Sott
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#322931"
 idle_fg = "#b9b5b8"

@@ -4,7 +4,7 @@
 # ShadeSmear Light by Kyle Giammarco (http://kyle.giammar.co)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#dbdbdb"
 idle_fg = "#232323"

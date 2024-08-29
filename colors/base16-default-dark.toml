@@ -4,7 +4,7 @@
 # Default Dark by Chris Kempson (http://chriskempson.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#181818"
 idle_fg = "#d8d8d8"

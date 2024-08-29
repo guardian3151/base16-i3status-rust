@@ -4,7 +4,7 @@
 # Hardcore by Chris Caller
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#212121"
 idle_fg = "#cdcdcd"

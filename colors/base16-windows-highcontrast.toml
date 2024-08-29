@@ -4,7 +4,7 @@
 # Windows High Contrast by Fergus Collins (https://github.com/C-Fergus)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#c0c0c0"

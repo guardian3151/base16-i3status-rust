@@ -4,7 +4,7 @@
 # Vesper by FormalSnake (https://github.com/formalsnake)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#101010"
 idle_fg = "#b7b7b7"

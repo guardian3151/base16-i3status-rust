@@ -4,7 +4,7 @@
 # Brush Trees by Abraham White &lt;abelincoln.white@gmail.com&gt;
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#e3efef"
 idle_fg = "#6d828e"

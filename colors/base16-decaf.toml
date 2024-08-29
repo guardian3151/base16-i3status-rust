@@ -4,7 +4,7 @@
 # Decaf by Alex Mirrington (https://github.com/alexmirrington)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#2d2d2d"
 idle_fg = "#cccccc"

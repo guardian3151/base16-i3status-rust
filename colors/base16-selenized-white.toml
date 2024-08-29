@@ -4,7 +4,7 @@
 # selenized-white by Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#ffffff"
 idle_fg = "#474747"

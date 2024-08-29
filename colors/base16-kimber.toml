@@ -4,7 +4,7 @@
 # Kimber by Mishka Nguyen (https://github.com/akhsiM)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#222222"
 idle_fg = "#dedee7"

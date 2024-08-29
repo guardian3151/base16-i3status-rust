@@ -4,7 +4,7 @@
 # Silk Dark by Gabriel Fontes (https://github.com/Misterio77)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#0e3c46"
 idle_fg = "#c7dbdd"

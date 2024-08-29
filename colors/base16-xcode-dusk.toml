@@ -4,7 +4,7 @@
 # XCode Dusk by Elsa Gonsiorowski (https://github.com/gonsie)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#282b35"
 idle_fg = "#939599"

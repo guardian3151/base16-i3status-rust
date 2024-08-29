@@ -4,7 +4,7 @@
 # Woodland by Jay Cornwall (https://jcornwall.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#231e18"
 idle_fg = "#cabcb1"

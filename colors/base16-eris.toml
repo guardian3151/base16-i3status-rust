@@ -4,7 +4,7 @@
 # eris by ed (https://codeberg.org/ed)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#0a0920"
 idle_fg = "#606bac"

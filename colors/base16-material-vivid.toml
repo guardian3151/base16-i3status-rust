@@ -4,7 +4,7 @@
 # Material Vivid by joshyrobot
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#202124"
 idle_fg = "#80868b"

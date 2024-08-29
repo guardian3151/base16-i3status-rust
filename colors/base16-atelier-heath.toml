@@ -4,7 +4,7 @@
 # Atelier Heath by Bram de Haan (http://atelierbramdehaan.nl)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1b181b"
 idle_fg = "#ab9bab"

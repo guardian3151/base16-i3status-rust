@@ -4,7 +4,7 @@
 # Tokyodark by Tiagovla (https://github.com/tiagovla/)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#11121d"
 idle_fg = "#abb2bf"

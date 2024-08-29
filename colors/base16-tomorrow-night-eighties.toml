@@ -4,7 +4,7 @@
 # Tomorrow Night Eighties by Chris Kempson (http://chriskempson.com)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#2d2d2d"
 idle_fg = "#cccccc"

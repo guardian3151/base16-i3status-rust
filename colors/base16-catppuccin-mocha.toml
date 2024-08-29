@@ -4,7 +4,7 @@
 # Catppuccin Mocha by https://github.com/catppuccin/catppuccin
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#1e1e2e"
 idle_fg = "#cdd6f4"

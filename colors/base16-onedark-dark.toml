@@ -4,7 +4,7 @@
 # OneDark Dark by olimorris (https://github.com/olimorris)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#abb2bf"

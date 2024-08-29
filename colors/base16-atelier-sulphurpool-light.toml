@@ -4,7 +4,7 @@
 # Atelier Sulphurpool Light by Bram de Haan (http://atelierbramdehaan.nl)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#f5f7ff"
 idle_fg = "#5e6687"

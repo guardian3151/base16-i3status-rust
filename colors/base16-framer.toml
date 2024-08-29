@@ -4,7 +4,7 @@
 # Framer by Framer (Maintained by Jesse Hoyos)
 
 [theme]
-name = "solarized-dark"
+name = "custom_theme"
 [theme.overrides]
 idle_bg = "#181818"
 idle_fg = "#d0d0d0"
