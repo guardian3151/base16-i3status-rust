@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Seti UI by 
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#151718"
 idle_fg = "#d6d6d6"
 info_bg = "#55dbbe"

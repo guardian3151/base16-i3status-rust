@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # SAGA by https://github.com/SAGAtheme/SAGA
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#05080a"
 idle_fg = "#dce2f7"
 info_bg = "#c5edc1"

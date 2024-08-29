@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Hardcore by Chris Caller
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#212121"
 idle_fg = "#cdcdcd"
 info_bg = "#708387"

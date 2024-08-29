@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Windows 95 by Fergus Collins (https://github.com/C-Fergus)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#a8a8a8"
 info_bg = "#54fcfc"

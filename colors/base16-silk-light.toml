@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Silk Light by Gabriel Fontes (https://github.com/Misterio77)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#e9f1ef"
 idle_fg = "#385156"
 info_bg = "#329ca2"

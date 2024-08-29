@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # PhD by Hennig Hasemann (http://leetless.de/vim.html)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#061229"
 idle_fg = "#b8bbc2"
 info_bg = "#72b9bf"

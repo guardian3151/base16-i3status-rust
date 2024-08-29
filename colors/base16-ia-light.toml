@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # iA Light by iA Inc. (modified by aramisgithub)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#f6f6f6"
 idle_fg = "#181818"
 info_bg = "#2d6bb1"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Spacemacs by Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1f2022"
 idle_fg = "#a3a3a3"
 info_bg = "#2d9574"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Woodland by Jay Cornwall (https://jcornwall.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#231e18"
 idle_fg = "#cabcb1"
 info_bg = "#6eb958"

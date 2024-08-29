@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Still Alive by Derrick McKee (derrick.mckee@gmail.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#f0f0f0"
 idle_fg = "#d80000"
 info_bg = "#2c3c57"

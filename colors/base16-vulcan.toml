@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # vulcan by Andrey Varfolomeev
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#041523"
 idle_fg = "#5b778c"
 info_bg = "#977d7c"

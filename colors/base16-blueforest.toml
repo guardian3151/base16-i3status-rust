@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Blue Forest by alonsodomin (https://github.com/alonsodomin)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#141f2e"
 idle_fg = "#ffcc33"
 info_bg = "#80ff80"

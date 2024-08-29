@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Gruvbox Material Light, Soft by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#f2e5bc"
 idle_fg = "#654735"
 info_bg = "#4c7a5d"

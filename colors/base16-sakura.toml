@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Sakura by Misterio77 (http://github.com/Misterio77)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#feedf3"
 idle_fg = "#564448"
 info_bg = "#1d8991"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Tomorrow by Chris Kempson (http://chriskempson.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#ffffff"
 idle_fg = "#4d4d4c"
 info_bg = "#3e999f"

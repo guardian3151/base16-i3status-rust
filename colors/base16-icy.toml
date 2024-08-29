@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Icy Dark by icyphox (https://icyphox.ga)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#021012"
 idle_fg = "#095b67"
 info_bg = "#26c6da"

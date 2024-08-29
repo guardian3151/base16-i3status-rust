@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Snazzy by Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#282a36"
 idle_fg = "#e2e4e5"
 info_bg = "#9aedfe"

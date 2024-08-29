@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Eva by kjakapat (https://github.com/kjakapat)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#2a3b4d"
 idle_fg = "#9fa2a6"
 info_bg = "#4b8f77"

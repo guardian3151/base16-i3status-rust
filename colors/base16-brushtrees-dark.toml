@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Brush Trees Dark by Abraham White &lt;abelincoln.white@gmail.com&gt;
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#485867"
 idle_fg = "#b0c5c8"
 info_bg = "#86b3b3"

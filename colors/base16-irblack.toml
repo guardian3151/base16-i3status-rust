@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # IR Black by Timothée Poisot (http://timotheepoisot.fr)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#b5b3aa"
 info_bg = "#c6c5fe"

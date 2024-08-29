@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Solar Flare by Chuck Harmston (https://chuck.harmston.ch)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#18262f"
 idle_fg = "#a6afb8"
 info_bg = "#52cbb0"

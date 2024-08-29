@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Measured Dark by Measured (https://measured.co)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#00211f"
 idle_fg = "#dcdcdc"
 info_bg = "#62c0be"

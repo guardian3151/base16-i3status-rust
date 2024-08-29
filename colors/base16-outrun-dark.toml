@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Outrun Dark by Hugo Delahousse (http://github.com/hugodelahousse/)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#00002a"
 idle_fg = "#d0d0fa"
 info_bg = "#0ef0f0"

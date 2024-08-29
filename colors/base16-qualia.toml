@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Qualia by isaacwhanson
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#101010"
 idle_fg = "#c0c0c0"
 info_bg = "#c8c874"

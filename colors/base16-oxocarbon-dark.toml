@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Oxocarbon Dark by shaunsingh/IBM
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#161616"
 idle_fg = "#f2f4f8"
 info_bg = "#ff7eb6"

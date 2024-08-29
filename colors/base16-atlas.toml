@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Atlas by Alex Lende (https://ajlende.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#002635"
 idle_fg = "#a1a19a"
 info_bg = "#5dd7b9"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Horizon Terminal Dark by Michaël Ball (http://github.com/michael-ball/)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1c1e26"
 idle_fg = "#cbced0"
 info_bg = "#59e1e3"

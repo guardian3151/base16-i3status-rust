@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Brewer by Timothée Poisot (http://github.com/tpoisot)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#0c0d0e"
 idle_fg = "#b7b8b9"
 info_bg = "#80b1d3"

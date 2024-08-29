@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Aztec by TheNeverMan (github.com/TheNeverMan)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#101600"
 idle_fg = "#ffda51"
 info_bg = "#3d94a5"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # selenized-white by Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#ffffff"
 idle_fg = "#474747"
 info_bg = "#009a8a"

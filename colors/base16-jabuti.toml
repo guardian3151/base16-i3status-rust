@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Jabuti by https://github.com/notusknot
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#292a37"
 idle_fg = "#c0cbe3"
 info_bg = "#ff7eb6"

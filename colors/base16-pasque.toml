@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Pasque by Gabriel Fontes (https://github.com/Misterio77)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#271c3a"
 idle_fg = "#dedcdf"
 info_bg = "#7263aa"

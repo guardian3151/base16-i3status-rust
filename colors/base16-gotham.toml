@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Gotham by Andrea Leopardi (arranged by Brett Jones)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#0c1014"
 idle_fg = "#599cab"
 info_bg = "#2aa889"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Humanoid light by Thomas (tasmo) Friese
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#f8f8f2"
 idle_fg = "#232629"
 info_bg = "#008e8e"

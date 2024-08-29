@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Circus by Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#191919"
 idle_fg = "#a7a7a7"
 info_bg = "#4bb1a7"

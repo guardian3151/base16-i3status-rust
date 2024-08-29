@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # tarot by ed (https://codeberg.org/ed)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#0e091d"
 idle_fg = "#aa556f"
 info_bg = "#8c9785"

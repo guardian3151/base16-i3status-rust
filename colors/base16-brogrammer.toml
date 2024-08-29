@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Brogrammer by Vik Ramanujam (http://github.com/piggyslasher)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1f1f1f"
 idle_fg = "#4e5ab7"
 info_bg = "#1081d6"

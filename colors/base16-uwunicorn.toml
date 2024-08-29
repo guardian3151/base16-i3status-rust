@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # UwUnicorn by Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#241b26"
 idle_fg = "#eed5d9"
 info_bg = "#9c5fce"

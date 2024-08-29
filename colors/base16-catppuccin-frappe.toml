@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Catppuccin Frappe by https://github.com/catppuccin/catppuccin
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#303446"
 idle_fg = "#c6d0f5"
 info_bg = "#81c8be"

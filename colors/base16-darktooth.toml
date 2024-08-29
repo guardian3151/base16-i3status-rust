@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Darktooth by Jason Milkins (https://github.com/jasonm23)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1d2021"
 idle_fg = "#a89984"
 info_bg = "#8ba59b"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Gruvbox light, hard by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#f9f5d7"
 idle_fg = "#504945"
 info_bg = "#427b58"

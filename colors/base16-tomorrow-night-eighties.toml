@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Tomorrow Night Eighties by Chris Kempson (http://chriskempson.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#2d2d2d"
 idle_fg = "#cccccc"
 info_bg = "#66cccc"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Moonlight by Jeremy Swinarton (https://github.com/jswinarton)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#212337"
 idle_fg = "#a3ace1"
 info_bg = "#04d1f9"

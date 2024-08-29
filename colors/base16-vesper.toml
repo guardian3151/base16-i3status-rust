@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Vesper by FormalSnake (https://github.com/formalsnake)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#101010"
 idle_fg = "#b7b7b7"
 info_bg = "#60a592"

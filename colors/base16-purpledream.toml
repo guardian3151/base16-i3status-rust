@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Purpledream by malet
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#100510"
 idle_fg = "#ddd0dd"
 info_bg = "#0075b0"

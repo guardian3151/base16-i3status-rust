@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Tokyo Night Terminal Light by Michaël Ball
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#d5d6db"
 idle_fg = "#4c505e"
 info_bg = "#0f4b6e"

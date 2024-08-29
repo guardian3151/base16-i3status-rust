@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # 3024 by Jan T. Sott (http://github.com/idleberg)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#090300"
 idle_fg = "#a5a2a2"
 info_bg = "#b5e4f4"

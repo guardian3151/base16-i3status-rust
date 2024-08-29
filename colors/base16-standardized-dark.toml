@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # standardized-dark by ali (https://github.com/ali-githb/base16-standardized-scheme)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#222222"
 idle_fg = "#c0c0c0"
 info_bg = "#21c992"

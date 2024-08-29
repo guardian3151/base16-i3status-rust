@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # OneDark by Lalit Magant (http://github.com/tilal6991)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#282c34"
 idle_fg = "#abb2bf"
 info_bg = "#56b6c2"

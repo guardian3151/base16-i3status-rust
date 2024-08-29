@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Codeschool by blockloop
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#232c31"
 idle_fg = "#9ea7a6"
 info_bg = "#b02f30"

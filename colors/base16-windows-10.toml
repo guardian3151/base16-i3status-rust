@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Windows 10 by Fergus Collins (https://github.com/C-Fergus)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#0c0c0c"
 idle_fg = "#cccccc"
 info_bg = "#61d6d6"

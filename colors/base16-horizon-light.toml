@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Horizon Light by Michaël Ball (http://github.com/michael-ball/)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#fdf0ed"
 idle_fg = "#403c3d"
 info_bg = "#dc3318"

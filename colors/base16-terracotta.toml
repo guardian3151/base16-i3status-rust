@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Terracotta by Alexander Rossell Hayes (https://github.com/rossellhayes)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#efeae8"
 idle_fg = "#473731"
 info_bg = "#847f9e"

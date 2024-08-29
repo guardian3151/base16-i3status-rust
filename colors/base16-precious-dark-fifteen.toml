@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Precious Dark Fifteen by 4lex4 &lt;4lex49@zoho.com&gt;
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#23262b"
 idle_fg = "#bab9b6"
 info_bg = "#42bda7"

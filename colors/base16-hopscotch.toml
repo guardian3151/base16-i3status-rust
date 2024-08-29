@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Hopscotch by Jan T. Sott
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#322931"
 idle_fg = "#b9b5b8"
 info_bg = "#149b93"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Helios by Alex Meyer (https://github.com/reyemxela)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1d2021"
 idle_fg = "#d5d5d5"
 info_bg = "#1ba595"

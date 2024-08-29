@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Ayu Mirage by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#171b24"
 idle_fg = "#cccac2"
 info_bg = "#95e6cb"

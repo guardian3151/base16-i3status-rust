@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # ShadeSmear Light by Kyle Giammarco (http://kyle.giammar.co)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#dbdbdb"
 idle_fg = "#232323"
 info_bg = "#c57d42"

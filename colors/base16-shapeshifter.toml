@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Shapeshifter by Tyler Benziger (http://tybenz.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#f9f9f9"
 idle_fg = "#102015"
 info_bg = "#23edda"

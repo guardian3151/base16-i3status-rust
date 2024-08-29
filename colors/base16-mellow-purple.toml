@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Mellow Purple by gidsi
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1e0528"
 idle_fg = "#ffeeff"
 info_bg = "#b900b1"

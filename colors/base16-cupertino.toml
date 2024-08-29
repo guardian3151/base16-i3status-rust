@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Cupertino by Defman21
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#ffffff"
 idle_fg = "#404040"
 info_bg = "#318495"

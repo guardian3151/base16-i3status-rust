@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Atelier Sulphurpool by Bram de Haan (http://atelierbramdehaan.nl)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#202746"
 idle_fg = "#979db4"
 info_bg = "#22a2c9"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Atelier Estuary Light by Bram de Haan (http://atelierbramdehaan.nl)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#f4f3ec"
 idle_fg = "#5f5e4e"
 info_bg = "#5b9d48"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Material Darker by Nate Peterson
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#212121"
 idle_fg = "#eeffff"
 info_bg = "#89ddff"

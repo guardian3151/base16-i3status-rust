@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Google Light by Seth Wright (http://sethawright.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#ffffff"
 idle_fg = "#373b41"
 info_bg = "#3971ed"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Tokyo Night Dark by Michaël Ball
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1a1b26"
 idle_fg = "#a9b1d6"
 info_bg = "#b4f9f8"

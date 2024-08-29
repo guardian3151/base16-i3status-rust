@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Gigavolt by Aidan Swope (http://github.com/Whillikers)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#202126"
 idle_fg = "#e9e7e1"
 info_bg = "#fb6acb"

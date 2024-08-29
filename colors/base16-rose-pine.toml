@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Rosé Pine by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#191724"
 idle_fg = "#e0def4"
 info_bg = "#9ccfd8"

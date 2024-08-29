@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Zenburn by elnawe
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#383838"
 idle_fg = "#dcdccc"
 info_bg = "#93e0e3"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # vice by Thomas Leon Highbaugh thighbaugh@zoho.com
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#17191e"
 idle_fg = "#8b9cbe"
 info_bg = "#8265ff"

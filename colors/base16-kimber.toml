@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Kimber by Mishka Nguyen (https://github.com/akhsiM)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#222222"
 idle_fg = "#dedee7"
 info_bg = "#78b4b4"

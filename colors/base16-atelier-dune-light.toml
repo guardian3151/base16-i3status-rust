@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Atelier Dune Light by Bram de Haan (http://atelierbramdehaan.nl)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#fefbec"
 idle_fg = "#6e6b5e"
 info_bg = "#1fad83"

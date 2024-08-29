@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # PaperColor Dark by Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1c1c1c"
 idle_fg = "#808080"
 info_bg = "#ffaf00"

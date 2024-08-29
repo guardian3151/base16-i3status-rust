@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Marrakesh by Alexandre Gavioli (http://github.com/Alexx2/)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#201602"
 idle_fg = "#948e48"
 info_bg = "#75a738"

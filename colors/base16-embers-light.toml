@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Embers Light by Jannik Siebert (https://github.com/janniks)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#d1d6db"
 idle_fg = "#323b43"
 info_bg = "#826d57"

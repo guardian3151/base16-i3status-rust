@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Atelier Lakeside by Bram de Haan (http://atelierbramdehaan.nl)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#161b1d"
 idle_fg = "#7ea2b4"
 info_bg = "#2d8f6f"

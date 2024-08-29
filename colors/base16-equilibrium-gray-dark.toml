@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Equilibrium Gray Dark by Carlo Abelli
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#111111"
 idle_fg = "#ababab"
 info_bg = "#00948b"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Da One Paper by NNB (https://github.com/NNBnh)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#faf0dc"
 idle_fg = "#181818"
 info_bg = "#64b5a7"

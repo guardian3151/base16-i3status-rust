@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Bright by Chris Kempson (http://chriskempson.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#e0e0e0"
 info_bg = "#76c7b7"

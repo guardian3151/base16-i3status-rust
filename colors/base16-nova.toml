@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Nova by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#3c4c55"
 idle_fg = "#c5d4dd"
 info_bg = "#f2c38f"

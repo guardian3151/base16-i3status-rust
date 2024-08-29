@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # tender by Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#282828"
 idle_fg = "#eeeeee"
 info_bg = "#73cef4"

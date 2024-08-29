@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Twilight by David Hart (https://github.com/hartbit)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1e1e1e"
 idle_fg = "#a7a7a7"
 info_bg = "#afc4db"

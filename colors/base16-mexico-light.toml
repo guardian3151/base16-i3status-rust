@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Mexico Light by Sheldon Johnson
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#f8f8f8"
 idle_fg = "#383838"
 info_bg = "#4b8093"

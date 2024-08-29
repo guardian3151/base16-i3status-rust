@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Colors by mrmrs (http://clrs.cc)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#111111"
 idle_fg = "#bbbbbb"
 info_bg = "#7fdbff"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Tokyodark by Tiagovla (https://github.com/tiagovla/)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#11121d"
 idle_fg = "#abb2bf"
 info_bg = "#a485dd"

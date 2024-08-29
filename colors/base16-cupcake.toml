@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Cupcake by Chris Kempson (http://chriskempson.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#fbf1f2"
 idle_fg = "#8b8198"
 info_bg = "#69a9a7"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Unikitty Reversible by Josh W Lewis (@joshwlewis)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#2e2a31"
 idle_fg = "#c3c2c4"
 info_bg = "#149bda"

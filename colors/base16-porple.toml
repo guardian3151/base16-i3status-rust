@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Porple by Niek den Breeje (https://github.com/AuditeMarlow)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#292c36"
 idle_fg = "#d8d8d8"
 info_bg = "#64878f"

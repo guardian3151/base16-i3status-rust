@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Dark Violet by ruler501 (https://github.com/ruler501/base16-darkviolet)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#000000"
 idle_fg = "#b08ae6"
 info_bg = "#40dfff"

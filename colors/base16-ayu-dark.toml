@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Ayu Dark by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#0f1419"
 idle_fg = "#e6e1cf"
 info_bg = "#95e6cb"

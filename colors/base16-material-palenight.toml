@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Material Palenight by Nate Peterson
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#292d3e"
 idle_fg = "#959dcb"
 info_bg = "#89ddff"

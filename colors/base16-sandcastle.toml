@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Sandcastle by George Essig (https://github.com/gessig)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#282c34"
 idle_fg = "#a89984"
 info_bg = "#83a598"

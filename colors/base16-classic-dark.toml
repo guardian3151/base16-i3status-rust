@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Classic Dark by Jason Heeris (http://heeris.id.au)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#151515"
 idle_fg = "#d0d0d0"
 info_bg = "#75b5aa"

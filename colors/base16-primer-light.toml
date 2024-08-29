@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Primer Light by Jimmy Lin
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#fafbfc"
 idle_fg = "#2f363d"
 info_bg = "#79b8ff"

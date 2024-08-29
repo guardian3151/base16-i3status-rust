@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Espresso by Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#2d2d2d"
 idle_fg = "#cccccc"
 info_bg = "#bed6ff"

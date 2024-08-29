@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Edge Light by cjayross (https://github.com/cjayross)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#fafafa"
 idle_fg = "#5e646f"
 info_bg = "#509c93"

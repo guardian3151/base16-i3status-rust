@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # lime by limelier
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1a1a2f"
 idle_fg = "#818175"
 info_bg = "#4cad83"

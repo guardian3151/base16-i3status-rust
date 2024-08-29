@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Gruber by Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#181818"
 idle_fg = "#f4f4ff"
 info_bg = "#95a99f"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Edge Dark by cjayross (https://github.com/cjayross)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#262729"
 idle_fg = "#b7bec9"
 info_bg = "#5ebaa5"

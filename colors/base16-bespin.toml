@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Bespin by Jan T. Sott
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#28211c"
 idle_fg = "#8a8986"
 info_bg = "#afc4db"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Apathy by Jannik Siebert (https://github.com/janniks)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#031a16"
 idle_fg = "#81b5ac"
 info_bg = "#963e4c"

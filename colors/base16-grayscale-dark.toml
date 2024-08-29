@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Grayscale Dark by Alexandre Gavioli (https://github.com/Alexx2/)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#101010"
 idle_fg = "#b9b9b9"
 info_bg = "#868686"

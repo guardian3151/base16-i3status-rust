@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Stella by Shrimpram
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#2b213c"
 idle_fg = "#998bad"
 info_bg = "#9bc7bf"

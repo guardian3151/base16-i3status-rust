@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Green Screen by Chris Kempson (http://chriskempson.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#001100"
 idle_fg = "#00bb00"
 info_bg = "#005500"

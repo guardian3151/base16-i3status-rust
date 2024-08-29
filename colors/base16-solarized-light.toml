@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Solarized Light by Ethan Schoonover (modified by aramisgithub)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#fdf6e3"
 idle_fg = "#586e75"
 info_bg = "#2aa198"

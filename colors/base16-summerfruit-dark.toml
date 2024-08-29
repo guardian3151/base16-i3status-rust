@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Summerfruit Dark by Christopher Corley (http://christop.club/)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#151515"
 idle_fg = "#d0d0d0"
 info_bg = "#1faaaa"

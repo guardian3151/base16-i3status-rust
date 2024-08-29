@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # dirtysea by Kahlil (Kal) Hodgson
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#e0e0e0"
 idle_fg = "#000000"
 info_bg = "#755b00"

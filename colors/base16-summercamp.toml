@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # summercamp by zoe firi (zoefiri.github.io)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1c1810"
 idle_fg = "#736e55"
 info_bg = "#5aebbc"

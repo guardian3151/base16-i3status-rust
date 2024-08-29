@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Shades of Purple by Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1e1e3f"
 idle_fg = "#c7c7c7"
 info_bg = "#00c5c7"

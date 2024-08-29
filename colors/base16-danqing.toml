@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # DanQing by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#2d302f"
 idle_fg = "#e0f0ef"
 info_bg = "#30dff3"

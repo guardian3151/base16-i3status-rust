@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Railscasts by Ryan Bates (http://railscasts.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#2b2b2b"
 idle_fg = "#e6e1dc"
 info_bg = "#519f50"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Fruit Soda by jozip
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#f1ecf1"
 idle_fg = "#515151"
 info_bg = "#0f9cfd"

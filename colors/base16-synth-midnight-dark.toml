@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Synth Midnight Terminal Dark by Michaël Ball (http://github.com/michael-ball/)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#050608"
 idle_fg = "#c1c3c4"
 info_bg = "#42fff9"

@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Da One Sea by NNB (https://github.com/NNBnh)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#22273d"
 idle_fg = "#ffffff"
 info_bg = "#8af5ff"

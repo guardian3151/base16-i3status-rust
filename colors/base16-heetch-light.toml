@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Heetch Light by Geoffrey Teale (tealeg@gmail.com)
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#feffff"
 idle_fg = "#5a496e"
 info_bg = "#c33678"

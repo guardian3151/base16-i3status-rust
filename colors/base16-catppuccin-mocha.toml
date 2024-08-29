@@ -3,9 +3,6 @@
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
 # Catppuccin Mocha by https://github.com/catppuccin/catppuccin
 
-[theme]
-name = "custom_theme"
-[theme.overrides]
 idle_bg = "#1e1e2e"
 idle_fg = "#cdd6f4"
 info_bg = "#94e2d5"
