@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Blueish by Ben Mayoras
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#182430"
+idle_fg = "#c8e1f8"
+info_bg = "#5fd1ff"
+info_fg = "#182430"
+good_bg = "#c3e88d"
+good_fg = "#182430"
+warning_bg = "#82aaff"
+warning_fg = "#182430"
+critical_bg = "#4ce587"
+critical_fg = "#182430"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# OneDark Dark by olimorris (https://github.com/olimorris)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#000000"
+idle_fg = "#abb2bf"
+info_bg = "#2bbac5"
+info_fg = "#000000"
+good_bg = "#89ca78"
+good_fg = "#000000"
+warning_bg = "#e5c07b"
+warning_fg = "#000000"
+critical_bg = "#ef596f"
+critical_fg = "#000000"
+# The rest of the theme settings are left at default.

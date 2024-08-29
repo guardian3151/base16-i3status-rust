@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# SAGA by https://github.com/SAGAtheme/SAGA
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#05080a"
+idle_fg = "#dce2f7"
+info_bg = "#c5edc1"
+info_fg = "#05080a"
+good_bg = "#f7ddff"
+good_fg = "#05080a"
+warning_bg = "#fbebc8"
+warning_fg = "#05080a"
+critical_bg = "#ffd4e9"
+critical_fg = "#05080a"
+# The rest of the theme settings are left at default.

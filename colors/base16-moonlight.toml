@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Moonlight by Jeremy Swinarton (https://github.com/jswinarton)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#212337"
+idle_fg = "#a3ace1"
+info_bg = "#04d1f9"
+info_fg = "#212337"
+good_bg = "#2df4c0"
+good_fg = "#212337"
+warning_bg = "#ffc777"
+warning_fg = "#212337"
+critical_bg = "#ff5370"
+critical_fg = "#212337"
+# The rest of the theme settings are left at default.

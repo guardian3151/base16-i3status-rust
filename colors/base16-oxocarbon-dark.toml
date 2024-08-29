@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Oxocarbon Dark by shaunsingh/IBM
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#161616"
+idle_fg = "#f2f4f8"
+info_bg = "#ff7eb6"
+info_fg = "#161616"
+good_bg = "#33b1ff"
+good_fg = "#161616"
+warning_bg = "#ee5396"
+warning_fg = "#161616"
+critical_bg = "#3ddbd9"
+critical_fg = "#161616"
+# The rest of the theme settings are left at default.

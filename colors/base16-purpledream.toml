@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Purpledream by malet
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#100510"
+idle_fg = "#ddd0dd"
+info_bg = "#0075b0"
+info_fg = "#100510"
+good_bg = "#14cc64"
+good_fg = "#100510"
+warning_bg = "#f000a0"
+warning_fg = "#100510"
+critical_bg = "#ff1d0d"
+critical_fg = "#100510"
+# The rest of the theme settings are left at default.

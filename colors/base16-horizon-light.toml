@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Horizon Light by Michaël Ball (http://github.com/michael-ball/)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fdf0ed"
+idle_fg = "#403c3d"
+info_bg = "#dc3318"
+info_fg = "#fdf0ed"
+good_bg = "#94e1b0"
+good_fg = "#fdf0ed"
+warning_bg = "#fbe0d9"
+warning_fg = "#fdf0ed"
+critical_bg = "#f7939b"
+critical_fg = "#fdf0ed"
+# The rest of the theme settings are left at default.

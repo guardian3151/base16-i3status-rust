@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# UwUnicorn by Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#241b26"
+idle_fg = "#eed5d9"
+info_bg = "#9c5fce"
+info_fg = "#241b26"
+good_bg = "#c965bf"
+good_fg = "#241b26"
+warning_bg = "#a84a73"
+warning_fg = "#241b26"
+critical_bg = "#877bb6"
+critical_fg = "#241b26"
+# The rest of the theme settings are left at default.

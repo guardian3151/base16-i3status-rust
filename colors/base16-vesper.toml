@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Vesper by FormalSnake (https://github.com/formalsnake)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#101010"
+idle_fg = "#b7b7b7"
+info_bg = "#60a592"
+info_fg = "#101010"
+good_bg = "#5f8787"
+good_fg = "#101010"
+warning_bg = "#ffc799"
+warning_fg = "#101010"
+critical_bg = "#de6e6e"
+critical_fg = "#101010"
+# The rest of the theme settings are left at default.

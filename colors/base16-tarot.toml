@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# tarot by ed (https://codeberg.org/ed)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#0e091d"
+idle_fg = "#aa556f"
+info_bg = "#8c9785"
+info_fg = "#0e091d"
+good_bg = "#a68e5a"
+good_fg = "#0e091d"
+warning_bg = "#ff6565"
+warning_fg = "#0e091d"
+critical_bg = "#c53253"
+critical_fg = "#0e091d"
+# The rest of the theme settings are left at default.

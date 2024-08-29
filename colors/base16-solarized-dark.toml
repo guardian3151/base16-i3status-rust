@@ -1,7 +1,7 @@
 # vi:syntax=toml
 
 # base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
-# Solarized Dark by Ethan Schoonover (http://ethanschoonover.com/solarized)
+# Solarized Dark by Ethan Schoonover (modified by aramisgithub)
 
 [theme]
 name = "solarized-dark"

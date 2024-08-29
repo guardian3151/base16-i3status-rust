@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Precious Dark Fifteen by 4lex4 &lt;4lex49@zoho.com&gt;
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#23262b"
+idle_fg = "#bab9b6"
+info_bg = "#42bda7"
+info_fg = "#23262b"
+good_bg = "#95b659"
+good_fg = "#23262b"
+warning_bg = "#cfa546"
+warning_fg = "#23262b"
+critical_bg = "#ff8782"
+critical_fg = "#23262b"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Precious Light Warm by 4lex4 &lt;4lex49@zoho.com&gt;
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fff5e5"
+idle_fg = "#4e5359"
+info_bg = "#0e7767"
+info_fg = "#fff5e5"
+good_bg = "#557300"
+good_fg = "#fff5e5"
+warning_bg = "#876500"
+warning_fg = "#fff5e5"
+critical_bg = "#b14745"
+critical_fg = "#fff5e5"
+# The rest of the theme settings are left at default.

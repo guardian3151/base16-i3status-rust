@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Tokyo Night Light by Michaël Ball
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#d5d6db"
+idle_fg = "#343b59"
+info_bg = "#3e6968"
+info_fg = "#d5d6db"
+good_bg = "#485e30"
+good_fg = "#d5d6db"
+warning_bg = "#166775"
+warning_fg = "#d5d6db"
+critical_bg = "#343b58"
+critical_fg = "#d5d6db"
+# The rest of the theme settings are left at default.

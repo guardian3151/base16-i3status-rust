@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Blue Forest by alonsodomin (https://github.com/alonsodomin)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#141f2e"
+idle_fg = "#ffcc33"
+info_bg = "#80ff80"
+info_fg = "#141f2e"
+good_bg = "#80ff80"
+good_fg = "#141f2e"
+warning_bg = "#91ccff"
+warning_fg = "#141f2e"
+critical_bg = "#fffab1"
+critical_fg = "#141f2e"
+# The rest of the theme settings are left at default.

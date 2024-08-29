@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# selenized-light by Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fbf3db"
+idle_fg = "#53676d"
+info_bg = "#00978a"
+info_fg = "#fbf3db"
+good_bg = "#428b00"
+good_fg = "#fbf3db"
+warning_bg = "#a78300"
+warning_fg = "#fbf3db"
+critical_bg = "#cc1729"
+critical_fg = "#fbf3db"
+# The rest of the theme settings are left at default.

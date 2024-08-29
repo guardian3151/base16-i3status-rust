@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Spaceduck by Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#16172d"
+idle_fg = "#ecf0c1"
+info_bg = "#00a3cc"
+info_fg = "#16172d"
+good_bg = "#5ccc96"
+good_fg = "#16172d"
+warning_bg = "#f2ce00"
+warning_fg = "#16172d"
+critical_bg = "#e33400"
+critical_fg = "#16172d"
+# The rest of the theme settings are left at default.

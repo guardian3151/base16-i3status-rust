@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# ShadeSmear Light by Kyle Giammarco (http://kyle.giammar.co)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#dbdbdb"
+idle_fg = "#232323"
+info_bg = "#c57d42"
+info_fg = "#dbdbdb"
+good_bg = "#71983b"
+good_fg = "#dbdbdb"
+warning_bg = "#307878"
+warning_fg = "#dbdbdb"
+critical_bg = "#cc5450"
+critical_fg = "#dbdbdb"
+# The rest of the theme settings are left at default.

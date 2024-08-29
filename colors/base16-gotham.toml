@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Gotham by Andrea Leopardi (arranged by Brett Jones)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#0c1014"
+idle_fg = "#599cab"
+info_bg = "#2aa889"
+info_fg = "#0c1014"
+good_bg = "#33859e"
+good_fg = "#0c1014"
+warning_bg = "#edb443"
+warning_fg = "#0c1014"
+critical_bg = "#c23127"
+critical_fg = "#0c1014"
+# The rest of the theme settings are left at default.

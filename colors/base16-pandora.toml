@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# pandora by Cassandra Fox
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#131213"
+idle_fg = "#f15c99"
+info_bg = "#714ca6"
+info_fg = "#131213"
+good_bg = "#9ddf69"
+good_fg = "#131213"
+warning_bg = "#ffcc00"
+warning_fg = "#131213"
+critical_bg = "#b00b69"
+critical_fg = "#131213"
+# The rest of the theme settings are left at default.

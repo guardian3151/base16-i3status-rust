@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Measured Light by Measured (https://measured.co)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fdf9f5"
+idle_fg = "#292929"
+info_bg = "#01716f"
+info_fg = "#fdf9f5"
+good_bg = "#0c680c"
+good_fg = "#fdf9f5"
+warning_bg = "#645a00"
+warning_fg = "#fdf9f5"
+critical_bg = "#ac1f35"
+critical_fg = "#fdf9f5"
+# The rest of the theme settings are left at default.

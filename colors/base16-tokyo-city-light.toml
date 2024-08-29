@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Tokyo City Light by Michaël Ball
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fbfbfd"
+idle_fg = "#343b59"
+info_bg = "#4c505e"
+info_fg = "#fbfbfd"
+good_bg = "#485e30"
+good_fg = "#fbfbfd"
+warning_bg = "#4c505e"
+warning_fg = "#fbfbfd"
+critical_bg = "#8c4351"
+critical_fg = "#fbfbfd"
+# The rest of the theme settings are left at default.

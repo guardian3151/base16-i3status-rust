@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Still Alive by Derrick McKee (derrick.mckee@gmail.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f0f0f0"
+idle_fg = "#d80000"
+info_bg = "#2c3c57"
+info_fg = "#f0f0f0"
+good_bg = "#5c5c6a"
+good_fg = "#f0f0f0"
+warning_bg = "#426395"
+warning_fg = "#f0f0f0"
+critical_bg = "#487830"
+critical_fg = "#f0f0f0"
+# The rest of the theme settings are left at default.

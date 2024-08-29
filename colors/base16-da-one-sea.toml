@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Da One Sea by NNB (https://github.com/NNBnh)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#22273d"
+idle_fg = "#ffffff"
+info_bg = "#8af5ff"
+info_fg = "#22273d"
+good_bg = "#98c379"
+good_fg = "#22273d"
+warning_bg = "#ff9470"
+warning_fg = "#22273d"
+critical_bg = "#fa7883"
+critical_fg = "#22273d"
+# The rest of the theme settings are left at default.

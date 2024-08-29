@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Tokyo Night Terminal Storm by Michaël Ball
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#24283b"
+idle_fg = "#787c99"
+info_bg = "#7dcfff"
+info_fg = "#24283b"
+good_bg = "#41a6b5"
+good_fg = "#24283b"
+warning_bg = "#e0af68"
+warning_fg = "#24283b"
+critical_bg = "#f7768e"
+critical_fg = "#24283b"
+# The rest of the theme settings are left at default.

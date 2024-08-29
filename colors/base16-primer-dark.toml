@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Primer Dark by Jimmy Lin
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#010409"
+idle_fg = "#b1bac4"
+info_bg = "#a5d6ff"
+info_fg = "#010409"
+good_bg = "#3fb950"
+good_fg = "#010409"
+warning_bg = "#d29922"
+warning_fg = "#010409"
+critical_bg = "#ff7b72"
+critical_fg = "#010409"
+# The rest of the theme settings are left at default.

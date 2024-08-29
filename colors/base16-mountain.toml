@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Mountain by gnsfujiwara (https://github.com/gnsfujiwara)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#0f0f0f"
+idle_fg = "#cacaca"
+info_bg = "#8aabac"
+info_fg = "#0f0f0f"
+good_bg = "#8aac8b"
+good_fg = "#0f0f0f"
+warning_bg = "#aca98a"
+warning_fg = "#0f0f0f"
+critical_bg = "#ac8a8c"
+critical_fg = "#0f0f0f"
+# The rest of the theme settings are left at default.

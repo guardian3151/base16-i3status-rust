@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Silk Light by Gabriel Fontes (https://github.com/Misterio77)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#e9f1ef"
+idle_fg = "#385156"
+info_bg = "#329ca2"
+info_fg = "#e9f1ef"
+good_bg = "#6ca38c"
+good_fg = "#e9f1ef"
+warning_bg = "#cfad25"
+warning_fg = "#e9f1ef"
+critical_bg = "#cf432e"
+critical_fg = "#e9f1ef"
+# The rest of the theme settings are left at default.

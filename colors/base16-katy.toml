@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Katy by George Essig (https://github.com/gessig)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#292d3e"
+idle_fg = "#959dcb"
+info_bg = "#83b7e5"
+info_fg = "#292d3e"
+good_bg = "#78c06e"
+good_fg = "#292d3e"
+warning_bg = "#e0a557"
+warning_fg = "#292d3e"
+critical_bg = "#6e98e1"
+critical_fg = "#292d3e"
+# The rest of the theme settings are left at default.

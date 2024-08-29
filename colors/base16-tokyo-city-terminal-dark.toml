@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Tokyo City Terminal Dark by Michaël Ball
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#171d23"
+idle_fg = "#d8e2ec"
+info_bg = "#70e1e8"
+info_fg = "#171d23"
+good_bg = "#8bd49c"
+good_fg = "#171d23"
+warning_bg = "#ebbf83"
+warning_fg = "#171d23"
+critical_bg = "#d95468"
+critical_fg = "#171d23"
+# The rest of the theme settings are left at default.

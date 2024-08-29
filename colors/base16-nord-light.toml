@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Nord Light by threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#e5e9f0"
+idle_fg = "#2e3440"
+info_bg = "#398eac"
+info_fg = "#e5e9f0"
+good_bg = "#4f894c"
+good_fg = "#e5e9f0"
+warning_bg = "#9a7500"
+warning_fg = "#e5e9f0"
+critical_bg = "#99324b"
+critical_fg = "#e5e9f0"
+# The rest of the theme settings are left at default.

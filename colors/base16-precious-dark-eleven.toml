@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Precious Dark Eleven by 4lex4 &lt;4lex49@zoho.com&gt;
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1c1e20"
+idle_fg = "#b8b7b6"
+info_bg = "#42bda7"
+info_fg = "#1c1e20"
+good_bg = "#95b658"
+good_fg = "#1c1e20"
+warning_bg = "#d0a543"
+warning_fg = "#1c1e20"
+critical_bg = "#ff8782"
+critical_fg = "#1c1e20"
+# The rest of the theme settings are left at default.

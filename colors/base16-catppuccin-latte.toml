@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Catppuccin Latte by https://github.com/catppuccin/catppuccin
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#eff1f5"
+idle_fg = "#4c4f69"
+info_bg = "#179299"
+info_fg = "#eff1f5"
+good_bg = "#40a02b"
+good_fg = "#eff1f5"
+warning_bg = "#df8e1d"
+warning_fg = "#eff1f5"
+critical_bg = "#d20f39"
+critical_fg = "#eff1f5"
+# The rest of the theme settings are left at default.

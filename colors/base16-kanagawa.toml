@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Kanagawa by Tommaso Laurenzi (https://github.com/rebelot)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1f1f28"
+idle_fg = "#dcd7ba"
+info_bg = "#6a9589"
+info_fg = "#1f1f28"
+good_bg = "#76946a"
+good_fg = "#1f1f28"
+warning_bg = "#c0a36e"
+warning_fg = "#1f1f28"
+critical_bg = "#c34043"
+critical_fg = "#1f1f28"
+# The rest of the theme settings are left at default.

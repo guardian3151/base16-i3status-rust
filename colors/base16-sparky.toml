@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Sparky by Leila Sother (https://github.com/mixcoac)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#072b31"
+idle_fg = "#f4f5f0"
+info_bg = "#2dccd3"
+info_fg = "#072b31"
+good_bg = "#78d64b"
+good_fg = "#072b31"
+warning_bg = "#fbdd40"
+warning_fg = "#072b31"
+critical_bg = "#ff585d"
+critical_fg = "#072b31"
+# The rest of the theme settings are left at default.

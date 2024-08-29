@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Da One Black by NNB (https://github.com/NNBnh)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#000000"
+idle_fg = "#ffffff"
+info_bg = "#8af5ff"
+info_fg = "#000000"
+good_bg = "#98c379"
+good_fg = "#000000"
+warning_bg = "#ff9470"
+warning_fg = "#000000"
+critical_bg = "#fa7883"
+critical_fg = "#000000"
+# The rest of the theme settings are left at default.

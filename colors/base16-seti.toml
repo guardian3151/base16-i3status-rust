@@ -14,6 +14,6 @@ good_bg = "#9fca56"
 good_fg = "#151718"
 warning_bg = "#e6cd69"
 warning_fg = "#151718"
-critical_bg = "#Cd3f45"
+critical_bg = "#cd3f45"
 critical_fg = "#151718"
 # The rest of the theme settings are left at default.

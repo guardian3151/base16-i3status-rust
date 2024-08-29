@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Tokyo Night Moon by Ólafur Bjarki Bogason
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#222436"
+idle_fg = "#3b4261"
+info_bg = "#86e1fc"
+info_fg = "#222436"
+good_bg = "#c3e88d"
+good_fg = "#222436"
+warning_bg = "#ffc777"
+warning_fg = "#222436"
+critical_bg = "#ff757f"
+critical_fg = "#222436"
+# The rest of the theme settings are left at default.

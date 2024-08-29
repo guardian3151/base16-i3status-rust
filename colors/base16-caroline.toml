@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# caroline by ed (https://codeberg.org/ed)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1c1213"
+idle_fg = "#a87569"
+info_bg = "#6b6566"
+info_fg = "#1c1213"
+good_bg = "#806c61"
+good_fg = "#1c1213"
+warning_bg = "#f28171"
+warning_fg = "#1c1213"
+critical_bg = "#c24f57"
+critical_fg = "#1c1213"
+# The rest of the theme settings are left at default.

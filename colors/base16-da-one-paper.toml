@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Da One Paper by NNB (https://github.com/NNBnh)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#faf0dc"
+idle_fg = "#181818"
+info_bg = "#64b5a7"
+info_fg = "#faf0dc"
+good_bg = "#76a85d"
+good_fg = "#faf0dc"
+warning_bg = "#b3684f"
+warning_fg = "#faf0dc"
+critical_bg = "#de5d6e"
+critical_fg = "#faf0dc"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Aztec by TheNeverMan (github.com/TheNeverMan)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#101600"
+idle_fg = "#ffda51"
+info_bg = "#3d94a5"
+info_fg = "#101600"
+good_bg = "#63d932"
+good_fg = "#101600"
+warning_bg = "#eebb00"
+warning_fg = "#101600"
+critical_bg = "#ee2e00"
+critical_fg = "#101600"
+# The rest of the theme settings are left at default.

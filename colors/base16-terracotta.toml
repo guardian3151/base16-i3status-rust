@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Terracotta by Alexander Rossell Hayes (https://github.com/rossellhayes)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#efeae8"
+idle_fg = "#473731"
+info_bg = "#847f9e"
+info_fg = "#efeae8"
+good_bg = "#7a894a"
+good_fg = "#efeae8"
+warning_bg = "#ce943e"
+warning_fg = "#efeae8"
+critical_bg = "#a75045"
+critical_fg = "#efeae8"
+# The rest of the theme settings are left at default.

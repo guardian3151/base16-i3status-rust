@@ -7,7 +7,7 @@
 name = "solarized-dark"
 [theme.overrides]
 idle_bg = "#485867"
-idle_fg = "#B0C5C8"
+idle_fg = "#b0c5c8"
 info_bg = "#86b3b3"
 info_fg = "#485867"
 good_bg = "#87b386"

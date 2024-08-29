@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Ayu Dark by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#0f1419"
+idle_fg = "#e6e1cf"
+info_bg = "#95e6cb"
+info_fg = "#0f1419"
+good_bg = "#b8cc52"
+good_fg = "#0f1419"
+warning_bg = "#ffb454"
+warning_fg = "#0f1419"
+critical_bg = "#f07178"
+critical_fg = "#0f1419"
+# The rest of the theme settings are left at default.

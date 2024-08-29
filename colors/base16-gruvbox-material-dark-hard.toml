@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Gruvbox Material Dark, Hard by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#202020"
+idle_fg = "#ddc7a1"
+info_bg = "#89b482"
+info_fg = "#202020"
+good_bg = "#a9b665"
+good_fg = "#202020"
+warning_bg = "#d8a657"
+warning_fg = "#202020"
+critical_bg = "#ea6962"
+critical_fg = "#202020"
+# The rest of the theme settings are left at default.
