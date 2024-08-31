@@ -1,7 +1,8 @@
 # base16-i3status-rust
 
 This is a repository that provides a [base16](https://github.com/chriskempson/base16) template to generate theme
-settings for [i3status-rust](https://github.com/greshake/i3status-rust).
+settings for [i3status-rust](https://github.com/greshake/i3status-rust). Note that this fork is entirely incompatible
+with upstream and sets colors in a completely different way.
 
 The colors were chosen based on what [base16's website](http://chriskempson.com/projects/base16/) says about the
 colors (both the example shades in the list saying what the colors are meant to be used for and _what_ it says they
